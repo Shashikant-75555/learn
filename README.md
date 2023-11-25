@@ -1,2 +1,4 @@
 # learn-js
-learning java
+learning java script
+
+author ;- shashikant_jha
