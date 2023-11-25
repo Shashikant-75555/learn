@@ -1,2 +1,2 @@
-# learn
+# learn-js
 learning java
