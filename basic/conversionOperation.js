@@ -47,12 +47,12 @@ console.log(typeof stringNumber);
 
 
 let str1 = "hello"
-let str2 = "hanuman
+let str2 = "hanuman"
 
 let str3 = str1+str2
 console.log(str3);
 
-console.log("1"+ 2;)
+console.log("1"+ 2);
 console.log(1+ "2");
 console.log("1"+ 2+2);
 console.log(1+ 2+"2");
