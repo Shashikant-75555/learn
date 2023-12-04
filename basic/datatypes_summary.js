@@ -6,7 +6,7 @@
 
 const score
 
-
+/*
   Non-Primitive datatype (Reference)
 
   Array , Objects , Functions
