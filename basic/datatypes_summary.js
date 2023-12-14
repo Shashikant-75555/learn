@@ -30,9 +30,30 @@ console.log(anotherId)
 
  */
 
-  const heros = [ " shaktiman","naagraj","doga"];
-  {
-     name : "shashi"
-     //age : 22;
-     
-  }
+//  const heros = [ " shaktiman","naagraj","doga"];
+  /*let myObj= {
+     name : "shashi"`
+     agww : 22;
+    */
+
+
+
+ //+++++++++++++++++++++++++++++++++++++++++++++++++
+ //  Stack (Primitive), Heap (Non-Primitive)
+
+ let myYoutubename = "shashikantdotcom"
+
+ let anothername = myYoutubename
+ anothername = "hivicky"
+
+ console.log(myYoutubename);
+ console.log(anothername);
+
+ let userOne = {
+  email : "user@google.com",
+  upi : "user@ybl"
+ }
+ let userTwo = userOne
+
+ userTwo.email = "sucess@gmail.com"
+ 
